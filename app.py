@@ -1,4 +1,5 @@
-from main import func, minus
+from add import add1
+from main import func
 
-print(func(4))
-print(minus(5,4))
+print(add1(5, 7))
+print(func(10))
